@@ -1,5 +1,5 @@
 Now playing:
 
-JavaScript
+🎵 JavaScript
 
 ► ───●─────── 0:59
