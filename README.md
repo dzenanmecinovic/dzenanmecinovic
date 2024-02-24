@@ -5,3 +5,8 @@
 <a href="https://javascript.info/" title="HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" target="_blank" width="150" height="150" /></a>
 <a href="https://react.dev/" title="HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="_blank" width="150" height="150" /></a>
 </div>
+<br/>
+<div align="center">
+  <h2 align="center">Learning</h2>
+  <a href="https://www.typescriptlang.org" title="HTML"><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" target="_blank" width="180" height="180" /></a>
+</div>
