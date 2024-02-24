@@ -1,5 +1,1 @@
-Now playing:
-
-🎵 Learning
-
-► ──●────────────── 0:20
+<h2>Contact E-mail: mecinovicdz@gmail.com</h2>
