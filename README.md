@@ -8,5 +8,5 @@
 <br/>
 <div align="center">
   <h2 align="center">Learning</h2>
-  <a href="https://www.typescriptlang.org" title="HTML"><img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" target="_blank" width="180" height="180" /></a>
+  <a href="https://www.typescriptlang.org" title="HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" target="_blank" width="180" height="180" /></a>
 </div>
